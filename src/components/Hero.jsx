@@ -26,7 +26,7 @@ const Hero = () => {
                             </p>
 
                             <a
-                                href="https://drive.google.com/file/d/106B3nfYuvzUcMnxgoPmakn3LndmA4aRU/view?usp=drive_link"
+                                href="https://drive.google.com/file/d/1Ou80ZXscRhyE7BJT2r3ej5FOn1BBaC9j/view?usp=drive_link"
                                 target="_blank"
                                 download
                                 className='inline-block'
